@@ -16,7 +16,7 @@
 
 
 
-## Graduate VR Research
+## Graduate VR Research (unpublished)
 ### [Exploring Bicycle-Based Virtual Reality Exergames as a Design Space](https://github.com/shalperin/vr-bike-game-controller)
 
 ### [Developing a Simple VR Prototyping Tool for Exploring Smartphone Applications In Virtual Context - A Case Study, Workflow and Tooling To Be Developed in the Redesign of A Location-based Urban Forestry Application.](https://github.com/shalperin/vr-mobile-prototyping-paper)
@@ -26,12 +26,12 @@
 
 
 
-## VR Experiments
+## VR Demos
 ### [Two "spatial storytelling" demos](https://github.com/shalperin/architechtural-visualizations-unity)
 
 
 ## Staff engineer on these publications 
-### [Thomas Jefferson University Hospital | Strength Through Insight | Prostate Cancer Surgery Followup and Patient Reported Outcomes](https://github.com/shalperin/TJUH-StrengthThroughInsight)
+### [Thomas Jefferson University Hospital | Strength Through Insight Study](https://github.com/shalperin/TJUH-StrengthThroughInsight)
 
 ## Android GIS
 ### [Reference implementation of Web Map Services (WMS) for Android](https://github.com/shalperin/android-wms)
