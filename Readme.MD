@@ -5,17 +5,6 @@
 
 ### [Reasoning about size and accessibility in web typography | GDG Philly](https://github.com/shalperin/Typography-TypeSize)
 
-## Swift Tutorials and Demos
-
-### [struct v.s. class - Pass by value, or pass by reference](https://github.com/shalperin/Swift-StructsVsClasses)
-
-### [Two models of async error handling](https://github.com/shalperin/Swift-TwoModelsOfAsyncErrorHandling)
-
-### [Comparing floating point values](https://github.com/shalperin/Swift-ComparingFloats)
-
-
-
-
 ## Graduate VR Research (unpublished)
 ### [Exploring Bicycle-Based Virtual Reality Exergames as a Design Space](https://github.com/shalperin/vr-bike-game-controller)
 
